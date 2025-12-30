@@ -1,0 +1,7 @@
+{
+  "name": "Josías School",
+  "description": "Una plataforma educativa interactiva para niños con secciones de lenguaje, historia, matemáticas, inglés y ciencias, impulsada por IA para tutoría personalizada y juegos educativos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
